@@ -26,7 +26,7 @@ I love working with data, uncovering patterns, and solving problems that drive b
 
 ---
 
-👾 **More projects coming soon... Stay tuned!** 👾
+👾 **More projects coming soon...** 👾
 
 
 <!--
