@@ -26,10 +26,9 @@ I love working with data, uncovering patterns, and solving problems that drive b
 
 ---
 
-🛠️ **More projects coming soon... Stay tuned!**
+👾 **More projects coming soon... Stay tuned!** 👾
 
-- 🔭 I’m currently working on EXCEL, SQL, Python
-- 🌱 I’m currently learning Data analysis
+
 <!--
 **Kaori61/Kaori61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
