@@ -21,8 +21,8 @@ I love working with data, uncovering patterns, and solving problems that drive b
 ---
 
 ### 🌍 Connect with Me:
-🔗 [LinkedIn](www.linkedin.com/in/kaori-ikarashi)  
-📧 [Email](kaori.ikarashi07@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kaori-ikarashi/)  
+📧 [Email](mailto:kaori.ikarashi07@gmail.com?subject=[GitHub]%inquiry)  
 
 ---
 
