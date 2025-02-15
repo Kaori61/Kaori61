@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kaori! Welcome to my profile 🌻
-### 🚀 Aspiring Data Analyst | Biochemistry Graduate | Healthcare Professional
+### 🚀 Aspiring Data professional | Biochemistry Graduate | Healthcare Professional
 
 I'm transitioning from a **Healthcare Professional** with a **degree in biochemistry** into the world of **data analytics**. 
 I love working with data, uncovering patterns, and solving problems that drive better decisions.
