@@ -16,7 +16,7 @@ I love working with data, uncovering patterns, and solving problems that drive b
 
 ### 📚 What I’m Learning:
 - 🌱 Improving my **SQL querying skills for data analysis**
-- 📊 Creating **interactive Power BI dashboards**
+- 📊 Creating **interactive Tableau dashboards**
 - 📈 Writing better **Python scripts for data analysis**
 ---
 
