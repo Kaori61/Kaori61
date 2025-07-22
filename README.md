@@ -9,14 +9,16 @@ I love working with data, uncovering patterns, and solving problems that drive b
 ### 📊 My Skills:
 - **SQL** - Querying, cleaning, and analysing data
 - **Excel** - Pivot tables, VLOOKUP, data visualisation, interactive dashboards
+- **Python** - Pandas, Numpy, Matplotlib, Seaborn, Plotly for data analysis
+- **Tableau** - Interactive dashbords
 - **Statistics** - Data-driven decision-making
 
 ---
 
 ### 📚 What I’m Learning:
-- 📈 learning **Python - Pandas, NumPy, Matplotlib for data analysis**
-- 🌱 Improving my **Tableau visualisation skills**
-- 📊 Creating **interactive Tableau dashboards**
+- 📈 learning **Python - Machine Learning, Power BI**
+- 🌱 Improving my **Visualisation skills**
+- 📊 Creating **interactive dashboards**
 ---
 
 ### 🌍 Connect with Me:
