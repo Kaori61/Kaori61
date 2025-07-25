@@ -6,12 +6,28 @@ I love working with data, uncovering patterns, and solving problems that drive b
 
 ---
 
+### 💻 Projects 
+#### [Analysing Crime to Guide Resource Allocation](https://github.com/Kaori61/crime-data-analysis)
+Capstone project exploring London crime trends using MET Police data.
+Python was used for cleaning, EDA, and regression modelling; Tableau was used for interactive dashboards. 
+The project identified boroughs with the highest crime rates, the most common crime types, etc., to inform security strategies and resource allocation.
+
+**Tools used**: Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-learn), Tableau, GitHub
+
+#### [Car Market Insights: A Price Analysis](https://github.com/Kaori61/Car-Price-Analysis)
+
+Group hackathon project exploring key drivers of car pricing using Python and Tableau. 
+Performed data cleaning, hypothesis testing, and regression modelling in Jupyter Notebook, then visualised insights in Tableau. 
+The analysis found that engine size and brand were strong price predictors, while rear-wheel drive cars tended to be priced higher.
+
+**Tools used**: Python, (Pandas, NumPy), Tableau, GitHub
+
+
 ### 📊 My Skills:
 - **SQL** - Querying, cleaning, and analysing data
 - **Excel** - Pivot tables, VLOOKUP, data visualisation, interactive dashboards
-- **Python** - Pandas, Numpy, Matplotlib, Seaborn, Plotly for data analysis
+- **Python** - Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scikit learn for data analysis
 - **Tableau** - Interactive dashbords
-- **Statistics** - Data-driven decision-making
 
 ---
 
