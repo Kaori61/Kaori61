@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kaori! Welcome to my profile 🌻
-### 🚀 Aspiring Data & BI Professional | Biochemistry Graduate | Healthcare Professional
+### 🚀 Aspiring Data & BI Professional | Problem Solver at Heart
 
 I'm transitioning into the world of **data analytics**, driven by a passion for turning data into actionable insights and supporting smarter, evidence-based decisions. With a background in biochemistry and professional experience in fast-paced environments, I bring strong analytical thinking, attention to detail, and a love for solving complex problems.
 
