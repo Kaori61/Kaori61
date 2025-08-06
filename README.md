@@ -8,21 +8,22 @@ I'm actively exploring opportunities as a **Data Analyst**, **Business Analyst**
 ---
 
 ### 💻 Projects 
-#### [Analysing Crime to Guide Resource Allocation](https://github.com/Kaori61/crime-data-analysis)
-Capstone project exploring London crime trends using MET Police data.
-Python was used for cleaning, EDA, and regression modelling; Tableau was used for interactive dashboards. 
-The project identified boroughs with the highest crime rates, the most common crime types, etc., to inform security strategies and resource allocation.
+- #### [Analysing Crime trends](https://github.com/Kaori61/crime-data-analysis)
+Personal capstone project analysing crime trends across London using MET Police data, to uncover insights to support strategic decision-making.
+Used **Python** for data cleaning, **exploratory data analysis (EDA)**, **hypothesis testing**, and building a **regression model** to forecast crime trends. Designed interactive **Tableau dashboards** to visualise borough-level patterns, highlight high-crime areas, and identify common crime types.
+Insights from the analysis were intended to demonstrate how data could be used to inform resource allocation and public safety strategies.
 
 **Tools used**: Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-learn), Tableau, GitHub
 
-#### [Car Market Insights: A Price Analysis](https://github.com/Kaori61/Car-Price-Analysis)
+- #### [Car Market Insights: A Price Analysis](https://github.com/Kaori61/Car-Price-Analysis)
 
-Group hackathon project exploring key drivers of car pricing using Python and Tableau. 
-Performed data cleaning, hypothesis testing, and regression modelling in Jupyter Notebook, then visualised insights in Tableau. 
-The analysis found that engine size and brand were strong price predictors, while rear-wheel drive cars tended to be priced higher.
+Group hackathon project exploring key factors influencing car prices using **Python** and **Tableau**.
+Conducted data cleaning, **hypothesis testing**, and **regression modelling** in Jupyter Notebook, and visualised key insights with Tableau dashboards.
+The analysis revealed that **engine size** and **brand** were strong price predictors, and that **rear-wheel drive** vehicles were generally priced higher.
 
 **Tools used**: Python (Pandas, NumPy), Tableau, GitHub
 
+---
 
 ### 📊 My Skills:
 - **SQL** - Querying, cleaning, and analysing data
