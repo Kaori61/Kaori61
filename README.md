@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Kaori! Welcome to my profile 🌻
-### 🚀 Aspiring Data Professional | Biochemistry Graduate | Healthcare Professional
+### 🚀 Aspiring Data & BI Professional | Biochemistry Graduate | Healthcare Professional
 
-I'm transitioning from a **Healthcare Professional** with a **degree in Biochemistry** into the world of **Data Analytics**. 
-I love working with data, uncovering patterns, and solving problems that drive better decisions.
+I'm transitioning into the world of **data analytics**, driven by a passion for turning data into actionable insights and supporting smarter, evidence-based decisions. With a background in biochemistry and professional experience in fast-paced environments, I bring strong analytical thinking, attention to detail, and a love for solving complex problems.
+
+I'm actively exploring opportunities as a **Data Analyst**, **Business Analyst**, or **Consultant**, where I can continue growing and making an impact through data.
 
 ---
 
@@ -20,7 +21,7 @@ Group hackathon project exploring key drivers of car pricing using Python and Ta
 Performed data cleaning, hypothesis testing, and regression modelling in Jupyter Notebook, then visualised insights in Tableau. 
 The analysis found that engine size and brand were strong price predictors, while rear-wheel drive cars tended to be priced higher.
 
-**Tools used**: Python, (Pandas, NumPy), Tableau, GitHub
+**Tools used**: Python (Pandas, NumPy), Tableau, GitHub
 
 
 ### 📊 My Skills:
