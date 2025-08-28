@@ -15,13 +15,13 @@ Insights from the analysis were intended to demonstrate how data could be used t
 
 **Tools used**: Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-learn), Tableau, GitHub
 
-- #### [Car Market Insights: A Price Analysis](https://github.com/Kaori61/Car-Price-Analysis)
+- #### [Cyber Crime Analysis](https://github.com/Kaori61/unmasking_hidden_cyber_threats_t5)
 
-Group hackathon project exploring key factors influencing car prices using **Python** and **Tableau**.
-Conducted data cleaning, **hypothesis testing**, and **regression modelling** in Jupyter Notebook, and visualised key insights with Tableau dashboards.
-The analysis revealed that **engine size** and **brand** were strong price predictors, and that **rear-wheel drive** vehicles were generally priced higher.
+Collaborative project exploring key factors to identify cyber threats using **Python** and **Streamlit**.
+Conducted data cleaning and **hypothesis testing** in Jupyter Notebook, and visualised key insights with **Streamlit app**.
+The analysis revealed that **shorter connection length**, **high connection count** and **particular network service type** (eg, private) strongly correlate with abnormal activities.
 
-**Tools used**: Python (Pandas, NumPy), Tableau, GitHub
+**Tools used**: Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-learn), Streamlit, GitHub
 
 ---
 
