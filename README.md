@@ -33,11 +33,6 @@ The analysis revealed that **shorter connection length**, **high connection coun
 
 ---
 
-### 📚 What I’m Learning:
-- 📈 learning **Python - Machine Learning, Power BI**
-- 🌱 Improving my **Visualisation skills**
-- 📊 Creating **interactive dashboards**
----
 
 ### 🌍 Connect with Me:
 🔗 [LinkedIn](https://www.linkedin.com/in/kaori-ikarashi/)  
@@ -61,4 +56,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 📚 What I’m Learning:
+- 📈 learning **Python - Machine Learning, Power BI**
+- 🌱 Improving my **Visualisation skills**
+- 📊 Creating **interactive dashboards**
+---
+
 -->
