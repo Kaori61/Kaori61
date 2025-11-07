@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kaori! Welcome to my profile 🌻
-### 🚀 Aspiring Data & BI Professional | Problem Solver at Heart
+### 🚀 Data & BI Professional | Problem Solver at Heart
 
 I'm transitioning into the world of **data analytics**, driven by a passion for turning data into actionable insights and supporting smarter, evidence-based decisions. With a background in biochemistry and professional experience in fast-paced environments, I bring strong analytical thinking, attention to detail, and a love for solving complex problems.
 
@@ -11,7 +11,7 @@ I'm actively exploring opportunities as a **Data Analyst**, **Business Analyst**
 - #### [Analysing Crime trends](https://github.com/Kaori61/crime-data-analysis)
 Personal capstone project analysing crime trends across London using MET Police data, to uncover insights to support strategic decision-making.
 Used **Python** for data cleaning, **exploratory data analysis (EDA)**, **hypothesis testing**, and building a **regression model** to forecast crime trends. Designed interactive **Tableau dashboards** to visualise borough-level patterns, highlight high-crime areas, and identify common crime types.
-Insights from the analysis were intended to demonstrate how data could be used to inform resource allocation and public safety strategies.
+Insights from the analysis aimed to demonstrate how data can be used to inform resource allocation and public safety strategies.
 
 **Tools used**: Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-learn), Tableau, GitHub
 
@@ -19,7 +19,7 @@ Insights from the analysis were intended to demonstrate how data could be used t
 
 Collaborative project exploring key factors to identify cyber threats using **Python** and **Streamlit**.
 Conducted data cleaning and **hypothesis testing** in Jupyter Notebook, and visualised key insights with **Streamlit app**.
-The analysis revealed that **shorter connection length**, **high connection count** and **particular network service type** (eg, private) strongly correlate with abnormal activities.
+The analysis revealed that **shorter connection length**, **high connection count**, and **particular network service type** (eg, private) strongly correlate with abnormal activities.
 
 **Tools used**: Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-learn), Streamlit, GitHub
 
