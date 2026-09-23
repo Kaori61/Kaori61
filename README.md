@@ -40,13 +40,6 @@ The analysis revealed that **shorter connection length**, **high connection coun
 
 ---
 
-### 📊 My Skills:
-- **SQL** - Querying, cleaning, and analysing data
-- **Excel** - Pivot tables, VLOOKUP, data visualisation, interactive dashboards
-- **Python** - Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scikit learn for data analysis
-- **Tableau** - Interactive dashbords
-
----
 
 
 ### 🌍 Connect with Me:
