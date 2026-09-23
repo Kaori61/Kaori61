@@ -1,13 +1,28 @@
-# 👋 Hi, I'm Kaori! Welcome to my profile 🌻
-### 🚀 Data & BI Professional | Problem Solver at Heart
+# Hi, I'm Kaori! 👋
 
-I'm transitioning into the world of **data analytics**, driven by a passion for turning data into actionable insights and supporting smarter, evidence-based decisions. With a background in biochemistry and professional experience in fast-paced environments, I bring strong analytical thinking, attention to detail, and a love for solving complex problems.
+I'm a data analyst with a background in biochemistry and healthcare, passionate about turning data into meaningful insights and practical solutions.
 
-I'm actively exploring opportunities as a **Data Analyst**, **Business Analyst**, or **Consultant**, where I can continue growing and making an impact through data.
+I enjoy exploring the story behind the numbers, understanding business challenges and making data accessible to everyone.
+
+### My Toolkit
+
+`Tableau` · `Power BI` · `Alteryx` · `Pyhton` · `SQL`
+
+### What I Do
+
+* Build interactive dashboards that make complex data easier to understand.
+* Transform and prepare data to improve quality and reliability.
+* Translate business questions into practical, data-driven solutions.
+* Help others build confidence in data visualisation.
+
+### A Little About Me
+
+My interest in data began while working in healthcare, where I saw how customer insights could influence business decisions. That experience inspired me to pursue a career in analytics.
+
 
 ---
 
-### 💻 Projects 
+### 💻 Personal Projects 
 - #### [Analysing Crime trends](https://github.com/Kaori61/crime-data-analysis)
 Personal capstone project analysing crime trends across London using MET Police data, to uncover insights to support strategic decision-making.
 Used **Python** for data cleaning, **exploratory data analysis (EDA)**, **hypothesis testing**, and building a **regression model** to forecast crime trends. Designed interactive **Tableau dashboards** to visualise borough-level patterns, highlight high-crime areas, and identify common crime types.
