@@ -22,7 +22,7 @@ My interest in data began while working in healthcare, where I saw how customer 
 
 ---
 
-### 💻 Personal Projects 
+### Personal Projects 
 - #### [Analysing Crime trends](https://github.com/Kaori61/crime-data-analysis)
 Personal capstone project analysing crime trends across London using MET Police data, to uncover insights to support strategic decision-making.
 Used **Python** for data cleaning, **exploratory data analysis (EDA)**, **hypothesis testing**, and building a **regression model** to forecast crime trends. Designed interactive **Tableau dashboards** to visualise borough-level patterns, highlight high-crime areas, and identify common crime types.
