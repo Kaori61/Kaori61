@@ -21,20 +21,22 @@ My interest in data began while working in healthcare, where I saw how customer 
 
 
 ---
-<h2> Certifications</h2>
+## Certifications
 
-<a href="YOUR_ALTERYX_CORE_VERIFY_URL">
-  <img src="certifications/alteryx-core.png"
-       alt="Alteryx Designer Core" width="130">
-<a href="YOUR_ALTERYX_ADVANCED_VERIFY_URL">
-  <img src="certifications/alteryx-advanced.png"
-       alt="Alteryx Designer Advanced" width="130">
-<a href="YOUR_TABLEAU_VERIFY_URL">
-  <img src="certifications/tableau.png"
-       alt="Tableau Certified Data Analyst" width="130">
-<a href="YOUR_MICROSOFT_VERIFY_URL">
-  <img src="certifications/pl-300.png"
-       alt="Microsoft Power BI Data Analyst" width="130">
+<p align="center">
+<a href="https://www.credly.com/badges/00b5c21e-6f64-45be-b151-49e308bc640b">
+  <img src="certifications/alteryx-core.png" alt="Alteryx Designer Core" width="130">
+  </a>
+<a href="https://www.credly.com/badges/a8c803cf-7331-4116-b316-ab05005decdb">
+  <img src="certifications/alteryx-advanced.png" alt="Alteryx Designer Advanced" width="130">
+  </a>
+<a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=lHACaMjbZCl7R7HA/iBzbIfhy5iyulWMdJy2suNJeASzJ8OK4igF6DNlZDOR+Dfb">
+  <img src="certifications/tableau.png" alt="Tableau Certified Data Analyst" width="130">
+  </a>
+<a href="https://learn.microsoft.com/en-us/users/kaoriikarashi-9682/credentials/a17d253887abc762">
+  <img src="certifications/pl-300.png" alt="Microsoft Power BI Data Analyst" width="130">
+  </a>
+</p>
 
 ---
 
