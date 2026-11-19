@@ -21,6 +21,26 @@ My interest in data began while working in healthcare, where I saw how customer 
 
 
 ---
+<h2> Certifications</h2>
+
+<a href="YOUR_ALTERYX_CORE_VERIFY_URL">
+  <img src="certifications/alteryx-core.png"
+       alt="Alteryx Designer Core" width="130">
+<a href="YOUR_ALTERYX_ADVANCED_VERIFY_URL">
+  <img src="certifications/alteryx-advanced.png"
+       alt="Alteryx Designer Advanced" width="130">
+<a href="YOUR_TABLEAU_VERIFY_URL">
+  <img src="certifications/tableau.png"
+       alt="Tableau Certified Data Analyst" width="130">
+<a href="YOUR_MICROSOFT_VERIFY_URL">
+  <img src="certifications/pl-300.png"
+       alt="Microsoft Power BI Data Analyst" width="130">
+
+---
+
+👾 **Projects coming soon...** 👾
+
+<!---
 
 ### Personal Projects 
 - #### [Analysing Crime trends](https://github.com/Kaori61/crime-data-analysis)
@@ -46,12 +66,10 @@ The analysis revealed that **shorter connection length**, **high connection coun
 🔗 [LinkedIn](https://www.linkedin.com/in/kaori-ikarashi/)  
 📧 [Email](mailto:kaori.ikarashi07@gmail.com?subject=[GitHub]%inquiry)  
 
----
-
-👾 **More projects coming soon...** 👾
 
 
-<!--
+
+
 **Kaori61/Kaori61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
